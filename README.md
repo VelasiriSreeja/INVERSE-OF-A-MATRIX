@@ -25,7 +25,7 @@ result=np.linalg.inv(A)
 print(result)
 ```
 ## Output:
-!['output'](Screenshot%20from%202023-01-25%2020-04-57.png)
+!['output'](Screenshot%20from%202023-01-26%2012-24-05.png)
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program
 
